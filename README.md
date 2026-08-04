@@ -32,7 +32,7 @@
   <li>Threat intelligence automation, detection engineering, and purple team methodologies</li>
 </ul>
   </div>
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">
+<!-- <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">
 </h1><a id="user-content---------" class="anchor" aria-label="Permalink: " href="#--------"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto">Omar Santos is a Distinguished Engineer at Cisco focusing on artificial intelligence (AI) security, cybersecurity research, incident response, and vulnerability disclosure. He is the co-chair of the <a href="https://www.coalitionforsecureai.org/" rel="nofollow">Coalition for Secure AI (CoSAI)</a> and was a board member of the <a href="https://www.oasis-open.org/" rel="nofollow">OASIS Open standards organization</a>. Omar is also the chair of the <a href="https://openeox.org" rel="nofollow">OpenEoX</a> and the <a href="https://oasis-open.github.io/csaf-documentation/" rel="nofollow">Common Security Advisory Framework (CSAF)</a> technical committee. His work led the creation of the <a href="https://www.iso.org/standard/89986.html" rel="nofollow">CSAF ISO standard</a>.
 Omar was the co-chair of the <a href="https://www.first.org/global/sigs/psirt/" rel="nofollow">FIRST PSIRT Special Interest Group (SIG).</a> and one of the original founders and leads of <a href="https://redteamvillage.io/team/" rel="nofollow">the DEF CON Red Team Village</a>.</p>
@@ -41,7 +41,7 @@ Omar was the co-chair of the <a href="https://www.first.org/global/sigs/psirt/" 
   <a id="user-content-omars-latest-blog-posts" class="anchor" aria-label="Permalink: Omar's Latest Blog Posts" href="#omars-latest-blog-posts"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
 </div>
 
-<ul dir="auto">
+<!-- <ul dir="auto">
 <li><a href="https://santosomar.medium.com/loop-the-claude-code-command-that-is-changing-the-conversation-about-software-engineering-46a16eb4be30?source=rss-fc39e28d7e52------2" rel="nofollow">loop: The Claude Code Command That Is Changing the Conversation about Software Engineering</a></li>
 <li><a href="https://santosomar.medium.com/teaching-ai-agents-to-speak-att-ck-with-agent-skills-e86883a606b6?source=rss-fc39e28d7e52------2" rel="nofollow">Teaching AI Agents to Speak ATT&amp;CK with AI Agent Skills</a></li>
 <li><a href="https://santosomar.medium.com/10-great-free-ai-learning-resources-for-2026-45c7d6de6867?source=rss-fc39e28d7e52------2" rel="nofollow">10 Great Free AI Learning Resources for 2026</a></li>
@@ -54,7 +54,7 @@ Omar was the co-chair of the <a href="https://www.first.org/global/sigs/psirt/" 
 <li><a href="https://santosomar.medium.com/creating-a-custom-code-security-claude-skill-that-integrates-with-project-codeguard-b1ed0a3e5c00?source=rss-fc39e28d7e52------2" rel="nofollow">Creating a Custom Code Security Claude Skill that Integrates with Project CodeGuard</a></li>
 </ul>
 
-</article>
+</article> --> -->
 
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Profile View</h2>
     <a id="user-content-profile-view" class="anchor" aria-label="Permalink: Profile View" href="#profile-view">

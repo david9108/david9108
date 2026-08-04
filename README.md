@@ -54,7 +54,7 @@ Omar was the co-chair of the <a href="https://www.first.org/global/sigs/psirt/" 
 <li><a href="https://santosomar.medium.com/creating-a-custom-code-security-claude-skill-that-integrates-with-project-codeguard-b1ed0a3e5c00?source=rss-fc39e28d7e52------2" rel="nofollow">Creating a Custom Code Security Claude Skill that Integrates with Project CodeGuard</a></li>
 </ul>
 
-</article> --> -->
+</article> -->
 
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Profile View</h2>
     <a id="user-content-profile-view" class="anchor" aria-label="Permalink: Profile View" href="#profile-view">

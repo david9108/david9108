@@ -10,7 +10,7 @@
   <img align="left" alt="GIF description" src="/Skills_Animation_White.gif" style="visibility: visible; max-width: 100%;">
 </picture>
 </themed-picture> -->
-<div class="markdown-heading" dir="auto">
+<!-- <div class="markdown-heading" dir="auto">
 <h3 align="left" class="heading-element" dir="auto">Key Focus</h3>
 <a id="user-content-key-focus" class="anchor" aria-label="Permalink: Key Focus" href="#key-focus">
 <svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
@@ -31,7 +31,7 @@
   <li>AI/LLM security, prompt injection, AI red teaming, and autonomous security agents</li>
   <li>Threat intelligence automation, detection engineering, and purple team methodologies</li>
 </ul>
-  </div>
+  </div> -->
 <!-- <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">
 </h1><a id="user-content---------" class="anchor" aria-label="Permalink: " href="#--------"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto">Omar Santos is a Distinguished Engineer at Cisco focusing on artificial intelligence (AI) security, cybersecurity research, incident response, and vulnerability disclosure. He is the co-chair of the <a href="https://www.coalitionforsecureai.org/" rel="nofollow">Coalition for Secure AI (CoSAI)</a> and was a board member of the <a href="https://www.oasis-open.org/" rel="nofollow">OASIS Open standards organization</a>. Omar is also the chair of the <a href="https://openeox.org" rel="nofollow">OpenEoX</a> and the <a href="https://oasis-open.github.io/csaf-documentation/" rel="nofollow">Common Security Advisory Framework (CSAF)</a> technical committee. His work led the creation of the <a href="https://www.iso.org/standard/89986.html" rel="nofollow">CSAF ISO standard</a>.
